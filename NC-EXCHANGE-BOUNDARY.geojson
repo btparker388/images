@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"name": "NC EXCHANGE BOUNDARY",
+"features": [
+{ "type": "Feature", "properties": { "Layer": "BOUNDARY_EXCHANGE_BO" }, "geometry": null },
+{ "type": "Feature", "properties": { "Layer": "BOUNDARY_EXCHANGE_BO" }, "geometry": null },
+{ "type": "Feature", "properties": { "Layer": "BOUNDARY_EXCHANGE_BO" }, "geometry": null },
+{ "type": "Feature", "properties": { "Layer": "BOUNDARY_EXCHANGE_BO" }, "geometry": null },
+{ "type": "Feature", "properties": { "Layer": "BOUNDARY_EXCHANGE_BO" }, "geometry": null },
+{ "type": "Feature", "properties": { "Layer": "BOUNDARY_EXCHANGE_BO" }, "geometry": null },
+{ "type": "Feature", "properties": { "Layer": "BOUNDARY_EXCHANGE_BO" }, "geometry": null },
+{ "type": "Feature", "properties": { "Layer": "BOUNDARY_EXCHANGE_BO" }, "geometry": null },
+{ "type": "Feature", "properties": { "Layer": "BOUNDARY_EXCHANGE_BO" }, "geometry": null },
+{ "type": "Feature", "properties": { "Layer": "BOUNDARY_EXCHANGE_BO" }, "geometry": null },
+{ "type": "Feature", "properties": { "Layer": "BOUNDARY_EXCHANGE_BO" }, "geometry": null },
+{ "type": "Feature", "properties": { "Layer": "BOUNDARY_EXCHANGE_BO" }, "geometry": null },
+{ "type": "Feature", "properties": { "Layer": "BOUNDARY_EXCHANGE_BO" }, "geometry": null },
+{ "type": "Feature", "properties": { "Layer": "BOUNDARY_EXCHANGE_BO" }, "geometry": null },
+{ "type": "Feature", "properties": { "Layer": "BOUNDARY_EXCHANGE_BO" }, "geometry": null },
+{ "type": "Feature", "properties": { "Layer": "BOUNDARY_EXCHANGE_BO" }, "geometry": null },
+{ "type": "Feature", "properties": { "Layer": "BOUNDARY_EXCHANGE_BO" }, "geometry": null },
+{ "type": "Feature", "properties": { "Layer": "BOUNDARY_EXCHANGE_BO" }, "geometry": null }
+]
+}
